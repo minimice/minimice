@@ -12,6 +12,7 @@
 
 #### Connect with me ####
 * [LinkedIn](https://linkedin.com/in/cgl88)
+* [Find out more](https://github.com/minimice/about-me)
 
 <!--
 **minimice/minimice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
