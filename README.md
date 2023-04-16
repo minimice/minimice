@@ -12,7 +12,7 @@
 * [A short talk by me on an Alexa project](https://youtu.be/XwWWxhaOuCA).
 * [Winner of the 2019 AWS re:Invent Hackathon for Good](https://aws.amazon.com/blogs/publicsector/reinvent-2019-nonprofit-hackathon-for-good-crowns-winner-to-support-mental-and-emotional-well-being-nonprofit/).
 
-#### Connect with me ####
+#### 🔗 Connect with me ####
 * [LinkedIn](https://linkedin.com/in/cgl88)
 * [Find out more](https://github.com/minimice/about-me)
 
