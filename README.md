@@ -3,6 +3,7 @@
 #### ℹ️ TLDR ####
 * AWS Architect, with a wealth of experience (18+ years) in Software Engineering, DevOps, and Cloud Computing.
 * 3x CompTIA Subject Matter Expert (SME), responsible for creating industry leading internationally recognised certifications.
+* Founder of Skyjuice Software where I have delivered world class software to tech giants.
 
 #### ⚡️ Fun facts ####
 * Wrote software as a teenager that was purchased and used by Amazon.com, Netflix, and many other large and small companies.
