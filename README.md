@@ -12,6 +12,7 @@
 * Big fan of MOOCs, I have obtained wide variety of certifications on various subjects.
 * [A short talk by me on an Alexa project](https://youtu.be/XwWWxhaOuCA).
 * [Winner of the 2019 AWS re:Invent Hackathon for Good](https://aws.amazon.com/blogs/publicsector/reinvent-2019-nonprofit-hackathon-for-good-crowns-winner-to-support-mental-and-emotional-well-being-nonprofit/).
+* 🔥 movement ✌️
 
 #### 🔗 Connect with me ####
 * [LinkedIn](https://linkedin.com/in/cgl88)
