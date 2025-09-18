@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### ℹ️ TLDR ####
-* Leader in the IT industry, 4x CompTIA Subject Matter Expert (SME), responsible for creating industry leading internationally recognised certifications.
+* Leader in the IT industry, 4x CompTIA Subject Matter Expert (SME), CompTIA CSTAC (Certification SME Technical Advisory Committee) member, responsible for creating industry leading internationally recognised certifications.
 * AWS Architect, with a wealth of experience (18+ years) in Software Engineering, DevOps, Security and Cloud Computing.
 * Founder of Skyjuice Software where I have developed and sold world class software to tech giants.
 
